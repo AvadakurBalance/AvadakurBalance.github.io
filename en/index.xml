@@ -6,8 +6,62 @@
     <description>Recent content on Avadakur&#39;s Blog</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://AvadakurBalance.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软考-数据库</title>
+      <link>https://AvadakurBalance.github.io/en/posts/study/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://AvadakurBalance.github.io/en/posts/study/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description>&lt;h3 id=&#34;三级模式-两级映像&#34;&gt;三级模式-两级映像&lt;/h3&gt;
+&lt;p&gt;内模式&amp;mdash;-&amp;gt;数据库实际存放的文件&lt;/p&gt;
+&lt;p&gt;模式&amp;mdash;-&amp;gt;数据库中的表&lt;/p&gt;
+&lt;p&gt;外模式&amp;mdash;-&amp;gt;数据库中的视图&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/AvadakurBalance/picture@master/image-20241026144235429.png&#34; alt=&#34;image-20241026144235429&#34;  /&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;数据库设计的步骤&#34;&gt;数据库设计的步骤&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;需求分析，产出 DFD、需求说明书、数据字典&lt;/li&gt;
+&lt;li&gt;概念结构设计，产出E-R图&lt;/li&gt;
+&lt;li&gt;逻辑结构设计，产出关系模型&lt;/li&gt;
+&lt;li&gt;物理设计&lt;/li&gt;
+&lt;li&gt;实施&lt;/li&gt;
+&lt;li&gt;运行与维护&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;数据模型三要素：&lt;strong&gt;数据结构&lt;/strong&gt;、&lt;strong&gt;数据操作&lt;/strong&gt;、&lt;strong&gt;数据的约束条件&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>软考-操作系统</title>
+      <link>https://AvadakurBalance.github.io/en/posts/study/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://AvadakurBalance.github.io/en/posts/study/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+      <description>&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;h5 id=&#34;操作系统的四大特性&#34;&gt;操作系统的四大特性&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;并发性&lt;/li&gt;
+&lt;li&gt;虚拟性&lt;/li&gt;
+&lt;li&gt;不确定性&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;共享性&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;操作系统的功能&#34;&gt;操作系统的功能&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;进程管理：对实际系统中进程的调度&lt;/li&gt;
+&lt;li&gt;文件管理：文件系统的管理&lt;/li&gt;
+&lt;li&gt;作业管理：包括任务、人机交互、界面管理等&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设备管理&lt;/strong&gt;：硬件设备的管理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;存储管理&lt;/strong&gt;：主存储器空间的管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;嵌入式操作系统的特点&#34;&gt;嵌入式操作系统的特点&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;微型化&lt;/li&gt;
+&lt;li&gt;可定制&lt;/li&gt;
+&lt;li&gt;实时性&lt;/li&gt;
+&lt;li&gt;可靠性&lt;/li&gt;
+&lt;li&gt;易移植性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;初始化过程：片级初始化&amp;ndash;&amp;gt;板级初始化&amp;ndash;&amp;gt;系统级初始化&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Redis scan命令学习</title>
       <link>https://AvadakurBalance.github.io/en/posts/tech/tech1/</link>
@@ -21,13 +75,6 @@
       <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
       <guid>https://AvadakurBalance.github.io/en/posts/blog/blog/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>软考-操作系统</title>
-      <link>https://AvadakurBalance.github.io/en/posts/study/study/</link>
-      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
-      <guid>https://AvadakurBalance.github.io/en/posts/study/study/</guid>
-      <description>&lt;p&gt;爱神的箭拉开手机打开拉萨拿到绿卡是你的&lt;/p&gt;</description>
     </item>
     <item>
       <title>Life</title>

@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📚️ 软考 on Avadakur&#39;s Blog</title>
-    <link>https://AvadakurBalance.github.io/en/posts/study/</link>
-    <description>Recent content in 📚️ 软考 on Avadakur&#39;s Blog</description>
+    <title>架构师 on Avadakur&#39;s Blog</title>
+    <link>https://AvadakurBalance.github.io/en/tags/%E6%9E%B6%E6%9E%84%E5%B8%88/</link>
+    <description>Recent content in 架构师 on Avadakur&#39;s Blog</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://AvadakurBalance.github.io/en/posts/study/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>软考-数据库</title>
-      <link>https://AvadakurBalance.github.io/en/posts/study/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://AvadakurBalance.github.io/en/posts/study/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
-      <description>&lt;h3 id=&#34;三级模式-两级映像&#34;&gt;三级模式-两级映像&lt;/h3&gt;
-&lt;p&gt;内模式&amp;mdash;-&amp;gt;数据库实际存放的文件&lt;/p&gt;
-&lt;p&gt;模式&amp;mdash;-&amp;gt;数据库中的表&lt;/p&gt;
-&lt;p&gt;外模式&amp;mdash;-&amp;gt;数据库中的视图&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/AvadakurBalance/picture@master/image-20241026144235429.png&#34; alt=&#34;image-20241026144235429&#34;  /&gt;
-&lt;/p&gt;
-&lt;h4 id=&#34;数据库设计的步骤&#34;&gt;数据库设计的步骤&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;需求分析，产出 DFD、需求说明书、数据字典&lt;/li&gt;
-&lt;li&gt;概念结构设计，产出E-R图&lt;/li&gt;
-&lt;li&gt;逻辑结构设计，产出关系模型&lt;/li&gt;
-&lt;li&gt;物理设计&lt;/li&gt;
-&lt;li&gt;实施&lt;/li&gt;
-&lt;li&gt;运行与维护&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;数据模型三要素：&lt;strong&gt;数据结构&lt;/strong&gt;、&lt;strong&gt;数据操作&lt;/strong&gt;、&lt;strong&gt;数据的约束条件&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://AvadakurBalance.github.io/en/tags/%E6%9E%B6%E6%9E%84%E5%B8%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>软考-操作系统</title>
       <link>https://AvadakurBalance.github.io/en/posts/study/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>

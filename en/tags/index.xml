@@ -6,8 +6,29 @@
     <description>Recent content in 🧩 标签 on Avadakur&#39;s Blog</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://AvadakurBalance.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标签1</title>
+      <link>https://AvadakurBalance.github.io/en/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://AvadakurBalance.github.io/en/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>标签2</title>
+      <link>https://AvadakurBalance.github.io/en/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://AvadakurBalance.github.io/en/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>架构师</title>
+      <link>https://AvadakurBalance.github.io/en/tags/%E6%9E%B6%E6%9E%84%E5%B8%88/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://AvadakurBalance.github.io/en/tags/%E6%9E%B6%E6%9E%84%E5%B8%88/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Redis</title>
       <link>https://AvadakurBalance.github.io/en/tags/redis/</link>
